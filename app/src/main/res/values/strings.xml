@@ -4,5 +4,7 @@
     <string name="button1">Button1</string>
     <string name="button2">Button2</string>
     <string name="button3">Button3</string>
+    <string name="button4">Go to new page</string>
+    <string name="button5">Go back</string>
     <string name="btn">You already click</string>
 </resources>
