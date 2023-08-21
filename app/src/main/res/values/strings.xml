@@ -7,4 +7,5 @@
     <string name="button4">Go to new page</string>
     <string name="button5">Go back</string>
     <string name="btn">You already click</string>
+    <string name="exit">Exit</string>
 </resources>
