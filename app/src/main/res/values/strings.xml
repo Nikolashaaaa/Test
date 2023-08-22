@@ -8,4 +8,5 @@
     <string name="button5">Go back</string>
     <string name="btn">You already click</string>
     <string name="exit">Exit</string>
+    <string name="switch_cl">Click on me</string>
 </resources>
